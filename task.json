@@ -60,5 +60,5 @@
       "2 8-22 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/blackUnique.js, tag=全球购骑士特权, enabled=true",
       "12 8-22/3 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/dzl.js, tag=多走路, enabled=true",
       "35 11,16 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/txstock.js, tag=腾讯自选股leaf版, enabled=true",
-]
+       ]
 }
