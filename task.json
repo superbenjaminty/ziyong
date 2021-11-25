@@ -11,6 +11,7 @@
 	       "2 8-22 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/blackUnique.js, tag=全球购骑士特权, enabled=true",
 	       "12 8-22/3 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/dzl.js, tag=多走路, enabled=true",
 	       "25 */30 8-22 * * * https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/dyjsb.js, tag=抖音极速版, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/Sunert/Script/master/TaskConf/dianxin/qx_rewite.txt, tag=天翼电信套餐, update-interval=-1, opt-parser=false, enabled=true"
 	        "2 9 * * * https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/ls.js, tag=来闪David, enabled=true",
 	        "10 10,21 * * * https://gitee.com/rcfan1/js/raw/master/stuo.js, tag=商拓, enabled=true",
 	       "9 10 * * * https://cdn.jsdelivr.net/gh/byxiaopeng/myscripts@main/shapp.js, tag=苏汇, enabled=true",
