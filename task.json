@@ -51,14 +51,5 @@
       "13 */15 8-22 * * * https://raw.githubusercontent.com/xl2101200/-/main/jztt.js, tag=九章头条, img-url=https://raw.githubusercontent.com/sngxmini/QuanX/master/icons/tom.png, enabled=false",
       "6 6 8-23 * * * https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/znxq.js, tag=臻浓星球, img-url=https://cdn.jsdelivr.net/gh/ziye888/JavaScript@master/Task/znxq.png, enabled=true",
       "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=false",
-      "0 */30 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/dszb.js, tag=电视直播, enabled=true",    
-      "11 13 * * * https://cdn.jsdelivr.net/gh/byxiaopeng/myscripts@main/yclyapp.js, tag=蚁从, enabled=true",
-      "12 10 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/tc.js, tag=图虫, enabled=true",
-      "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/iQIYI.png, enabled=true",
-      "17 8-23/2 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/ydyy.js, tag=移动影院, enabled=true",
-      "0,30 6,12,13,18,21 * * * https://gitee.com/tom210120/tom/raw/master/SJB/sjb.js, tag=睡觉宝, enabled=true"，
-      "2 8-22 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/blackUnique.js, tag=全球购骑士特权, enabled=true",
-      "12 8-22/3 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/dzl.js, tag=多走路, enabled=true",
-      "35 11,16 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/txstock.js, tag=腾讯自选股leaf版, enabled=true",
        ]
 }
