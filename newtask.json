@@ -233,6 +233,18 @@
         {
             "config": "*/30 8-23 * * * https://raw.githubusercontent.com/laoguilin/JS-/main/chyu/chyu.js, tag=成语极速版, enabled=true",
             "addons": "https://raw.githubusercontent.com/Sunert/Script/master/TaskConf/baidu/qx_rewite.txt, tag=百度极速, update-interval=-1, opt-parser=false, enabled=true"
+        },
+		{
+            "config": "30 */15 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/dtwzgame.js, tag=答题王者, enabled=true",
+            "addons": "https://raw.githubusercontent.com/Sunert/Script/master/TaskConf/baidu/qx_rewite.txt, tag=百度极速, update-interval=-1, opt-parser=false, enabled=true"
+        },
+		{
+            "config": "59 */20 8-23 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/cydxsgame.js, tag=成语大学士, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/Sunert/Script/master/TaskConf/jukan/qx_rewite.txt, tag=聚看点, update-interval=-1, opt-parser=false, enabled=true"
+        }, 
+        {
+            "config": "12 12 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/txstock.js, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png, tag=腾讯自选股leaf版, enabled=true",
+            "addons": "https://raw.githubusercontent.com/Sunert/Script/master/TaskConf/baidu/qx_rewite.txt, tag=百度极速, update-interval=-1, opt-parser=false, enabled=true"
         },			
     ]
 }
