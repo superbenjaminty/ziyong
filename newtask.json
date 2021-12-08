@@ -3,15 +3,15 @@
     "description": "自用脚本整理",
     "task": [
         {
-            "config": "0 */30 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/dszb.js, tag=电视直播, enabled=true"
+            "config": "0 */30 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/dszb.js, tag=电视直播, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/dszb.conf, tag=电视直播, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "12 10 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/tc.js, tag=图虫, enabled=true"
+            "config": "12 10 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/tc.js, tag=图虫, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/tc.conf, tag=图虫, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/iQIYI.png, enabled=true"
+            "config": "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/iQIYI.png, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/aqy.conf, tag=爱奇艺, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
@@ -59,15 +59,15 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/ls.conf, tag=来闪, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "10 0 * * * https://raw.githubusercontent.com/LubooC/Script/main/sl.js, tag=闪辆, enabled=true"
+            "config": "10 0 * * * https://raw.githubusercontent.com/LubooC/Script/main/sl.js, tag=闪辆, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/sl.conf, tag=闪辆, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "39 9-21 * * * https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/fqct.js, tag=番茄畅听, enabled=true"
+            "config": "39 9-21 * * * https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/fqct.js, tag=番茄畅听, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/Sunert/Script/master/TaskConf/dianxin/qx_rewite.txt, tag=天翼电信套餐, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "15 */6 8-23 * * * https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/everyday.js, tag=书旗每日任务, enabled=false"
+            "config": "15 */6 8-23 * * * https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/everyday.js, tag=书旗每日任务, enabled=false",
 	    "addons": "https://raw.githubusercontent.com/Sunert/Script/master/TaskConf/dianxin/qx_rewite.txt, tag=天翼电信套餐, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
