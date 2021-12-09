@@ -103,7 +103,7 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/htt.conf, tag=惠头条, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "*/30 8-23 * * * http://47.101.146.160/scripts/jkd.js, tag=聚看点, img-url=circles.hexagongrid.fill.system, enabled=true", 
+            "config": "*/30 8-21 * * * http://47.101.146.160/scripts/jkd.js, tag=聚看点, img-url=circles.hexagongrid.fill.system, enabled=true", 
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/jkd.conf, tag=聚看点, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
@@ -237,10 +237,10 @@
         {
             "config": "0-59/15 8-23 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/ydd.js, tag=阅多多, enabled=true",
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/ydd.conf, tag=阅多多, update-interval=-1, opt-parser=false, enabled=true"
-        }
+        },
 	{
             "config": "10 22 * * * https://gitee.com/gossh520/script/raw/master/jkdapp.js, tag=聚看点, enabled=true",
-            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/ydd.conf, tag=聚看点, update-interval=-1, opt-parser=false, enabled=true"
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/jkdapp.conf, tag=聚看点, update-interval=-1, opt-parser=false, enabled=true"
         }
     ]
 }
