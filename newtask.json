@@ -244,7 +244,7 @@
         },
 	{
             "config": "10 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/qhbdspapp.js, tag=趣红包短视频, enabled=true",
-            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/jkdapp.conf, tag=趣红包短视频, update-interval=-1, opt-parser=false, enabled=true"
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/qhbsp.conf, tag=趣红包短视频, update-interval=-1, opt-parser=false, enabled=true"
         }	    
     ]
 }
