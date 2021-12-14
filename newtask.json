@@ -144,7 +144,7 @@
         },
         {
             "config": "12 8-23/5 * * * https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/txwzq.js, tag=腾讯微证券, enabled=true", 
-            "addons": "https://raw.githubusercontent.com/Sunert/Script/master/TaskConf/youth/qx_rewite.txt, tag=中青看点, update-interval=-1, opt-parser=false, enabled=true"
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/txwzq.conf, tag=腾讯微证券, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
             "config": "13 16 * * * https://raw.githubusercontent.com/xl2101200/-/main/28days.js, tag=28days, enabled=false", 
