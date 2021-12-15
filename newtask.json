@@ -3,6 +3,14 @@
     "description": "自用脚本整理",
     "task": [
         {
+            "config": "*/20 8-22 * * * * * * https://raw.githubusercontent.com/superbenjaminty/ziyong/master/yydxny.js, tag=爷爷的小农院, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/yydxny.conf, tag=爷爷的小农院, update-interval=-1, opt-parser=false, enabled=true"
+        },
+        {
+            "config": "0 10 8-22 * * * https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/tcdb.js, tag=同城夺宝小程序, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/tcdbxcx.conf, tag=同城夺宝小程序, update-interval=-1, opt-parser=false, enabled=true"
+        },	    
+        {
             "config": "0 10 8-22 * * * https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/tcdb.js, tag=同城夺宝小程序, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/tcdbxcx.conf, tag=同城夺宝小程序, update-interval=-1, opt-parser=false, enabled=true"
         },	    
