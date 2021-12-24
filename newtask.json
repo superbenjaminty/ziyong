@@ -6,6 +6,10 @@
             "config": "10 10 * * * https://gitee.com/gossh520/script/raw/master/zzkdapp.js, tag=追追看点, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zzkd.conf, tag=追追看点, update-interval=-1, opt-parser=false, enabled=true"
         },
+        {
+            "config": "10 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/fqxs.js, tag=番茄小说, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/fqxs.conf, tag=番茄小说, update-interval=-1, opt-parser=false, enabled=true"
+        },
 	{
             "config": "20 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/gylm.js, tag=高佣联盟, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/gylm.conf, tag=高佣联盟, update-interval=-1, opt-parser=false, enabled=true"
