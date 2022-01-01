@@ -1,6 +1,6 @@
 {
-    "name": "自用",
-    "description": "自用脚本整理",
+    "name": "整理",
+    "description": "网络搜集",
     "task": [
 	{    
             "config": "10 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/djxs.js, tag=得间小说David, enabled=true",
