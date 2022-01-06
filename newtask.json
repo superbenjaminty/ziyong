@@ -83,8 +83,8 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/dawDavid.conf, tag=都爱玩David, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "0 11 8 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/mdmj.js, tag=快手, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/kuaishou.png, enabled=true", 
-            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/mdmj.conf, tag=快手, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "0 11 8 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/mdmj.js, tag=美的美居, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/kuaishou.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/mdmj.conf, tag=美的美居, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
             "config": "3 5,17 * * * https://ghproxy.com/https://github.com/LubooC/Script/blob/main/daw.js, tag=都爱玩, enabled=true", 
