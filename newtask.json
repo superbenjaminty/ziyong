@@ -119,8 +119,8 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/flg.conf, tag=返利购, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "15 7,12,17,22 * * * https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/fqxs.js, tag=番茄小说, img-url=https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/fqxs.png, enabled=true", 
-            "addons": "https://raw.githubusercontent.com/Sunert/Script/master/TaskConf/jd/qx_rewite.txt, tag=京东到家, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "15 8,17 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/awy.js, tag=爱微影, img-url=https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/fqxs.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/awy.conf, tag=爱微影, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
             "config": "5,35 8-23 * * * https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/jrtt.js, tag=今日头条极速版, img-url=https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/jrtt.png, enabled=true", 
