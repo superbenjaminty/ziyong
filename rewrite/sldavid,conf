@@ -1,0 +1,4 @@
+https://newvideo.autohome.com.cn/api/homepage/detail url script-request-header https://raw.githubusercontent.com/bluesmallpig/scripts/main/sl.js
+https://newvideo.autohome.com.cn/api/video/rcmfeed url script-request-header https://raw.githubusercontent.com/bluesmallpig/scripts/main/sl.js
+
+hostname = newvideo.autohome.com.cn
