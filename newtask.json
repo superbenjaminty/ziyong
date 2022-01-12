@@ -6,6 +6,10 @@
             "config": "10 */6 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/fdxs.js.js, tag=疯读小说, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/fdxs.conf, tag=疯读小说, update-interval=-1, opt-parser=false, enabled=true"
         },
+        {    
+            "config": "10,16 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/sl.js, tag=闪辆David, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/sldavid.conf, tag=闪辆David, update-interval=-1, opt-parser=false, enabled=true"
+        },
 	{    
             "config": "10 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/djxs.js, tag=得间小说David, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/djxsDavid.conf, tag=得间小说David, update-interval=-1, opt-parser=false, enabled=true"
