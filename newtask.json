@@ -255,7 +255,7 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/dsj.conf, tag=电视家, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "13 */15 8-22 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/jztt.js, tag=九章头条, img-url=https://raw.githubusercontent.com/sngxmini/QuanX/master/icons/tom.png, enabled=false",
+            "config": "13 15 8-22 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/jztt.js, tag=九章头条, img-url=https://raw.githubusercontent.com/sngxmini/QuanX/master/icons/tom.png, enabled=false",
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/jztt.conf, tag=九章头条, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
