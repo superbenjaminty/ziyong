@@ -267,11 +267,11 @@
             "addons": "https://raw.githubusercontent.com/Sunert/Script/master/TaskConf/baidu/qx_rewite.txt, tag=百度极速, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "30 */15 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/dtwzgame.js, tag=答题王者, enabled=true",
-            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/dtwz.conf, tag=答题王者, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "30 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/dtwzgame.js, tag=走财运, enabled=true",
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zcy.conf, tag=走财运, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "59 */20 8-23 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/cydxsgame.js, tag=成语大学士, enabled=true", 
+            "config": "59 */20 8-23 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/zcy.js, tag=成语大学士, enabled=true", 
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/cydxs.conf, tag=成语大学士, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
