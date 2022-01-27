@@ -63,7 +63,7 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/yddyy.conf, tag=移动影院, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "0,30 6,12,13,18,21 * * * https://gitee.com/tom210120/tom/raw/master/SJB/sjb.js, tag=睡觉宝, enabled=true", 
+            "config": "0,30 6,12,13,18,21 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/sjb.js, tag=睡觉宝, enabled=true", 
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/sjb.conf, tag=睡觉宝, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
