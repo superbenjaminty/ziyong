@@ -76,7 +76,7 @@
         },
         {
             "config": "25 */30 8-22 * * * https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/dyjsb.js, tag=抖音极速版, enabled=true", 
-            "addons": "https://github.com/superbenjaminty/ziyong/blob/master/rewrite/dyjssb.conf, tag=抖音极速版, update-interval=-1, opt-parser=false, enabled=true"
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/dyjsb.conf, tag=抖音极速版, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
             "config": "2 9 * * * https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/ls.js, tag=来闪David, enabled=true", 
