@@ -215,8 +215,8 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zqkd.conf, tag=中青看点极速版, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "20 45 5 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth_gain.js, tag=中青浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true", 
-            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zqkd.conf, tag=中青浏览赚, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "20 45 5 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/hlhb.js, tag=欢乐红包, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/hlhb.conf, tag=欢乐红包, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
             "config": "55 0 10 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true", 
