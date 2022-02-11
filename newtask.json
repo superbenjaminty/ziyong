@@ -7,7 +7,7 @@
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/fdxs.conf, tag=疯读小说, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{    
-            "config": "10,16 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/zssq.js, tag=追书神器, enabled=true",
+            "config": "11 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/zssq.js, tag=追书神器, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zssq.conf, tag=追书神器, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{    
@@ -103,8 +103,8 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/ls.conf, tag=来闪, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "10 0 * * * https://raw.githubusercontent.com/LubooC/Script/main/sl.js, tag=闪辆, enabled=true",
-	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/sl.conf, tag=闪辆, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "10 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/zssq.js, tag=追书神器, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zssq.conf, tag=追书神器, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
             "config": "39 9-21 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/fqctapp.js, tag=番茄畅听, enabled=true",
