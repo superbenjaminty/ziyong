@@ -87,7 +87,7 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/dawDavid.conf, tag=都爱玩David, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "0 11 8 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/txs.js, tag=淘小说, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/kuaishou.png, enabled=true", 
+            "config": "11 8-20 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/txs.js, tag=淘小说, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/kuaishou.png, enabled=true", 
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/txs.conf, tag=淘小说, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
