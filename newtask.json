@@ -187,8 +187,8 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/txwzq.conf, tag=腾讯微证券, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "13 16 * * * https://raw.githubusercontent.com/xl2101200/-/main/28days.js, tag=28days, enabled=false", 
-            "addons": "https://raw.githubusercontent.com/Sunert/Script/master/TaskConf/youth/qx_youthread.txt, tag=中青阅读, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "13 8-22/2 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/wlkd.js, tag=文旅看点, enabled=false", 
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/wlkd.conf, tag=文旅看点, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
             "config": "0 6-23 * * * https://raw.githubusercontent.com/YaphetS0903/JStest/main/ysy.js, tag=萤石云, enabled=false", 
