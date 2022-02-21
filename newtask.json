@@ -219,8 +219,8 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/hlhb.conf, tag=欢乐红包, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "55 0 10 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true", 
-            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zqyd.conf, tag=中青自动阅读, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "55 0 10 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/ksfcys.js, tag=康师傅畅饮社, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/ksfcys.conf, tag=康师傅畅饮社, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
             "config": "16 8,12,17 * * * https://raw.githubusercontent.com/iepngs/Script/master/dingdong/index.js, tag=叮咚农场, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/mcdd.png, enabled=true", 
