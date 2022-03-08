@@ -7,8 +7,8 @@
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/lmz.conf, tag=狸猫赚, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{    
-            "config": "11 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/zssq.js, tag=追书神器, enabled=true",
-	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zssq.conf, tag=追书神器, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "22 10-20 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/ks.js, tag=快手leaf, enabled=true,  enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zssq.conf, tag=快手leaf, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{    
             "config": "10 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/djxs.js, tag=得间小说David, enabled=true",
