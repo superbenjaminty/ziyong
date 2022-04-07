@@ -39,8 +39,8 @@
 	    "addons": "http://script.frp.aiuyo.com:8680/conf/dyhsb.conf, tag=抖音火山版, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{    
-            "config": "10 22 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/ddgy.js, tag=滴滴果园leaf, img-url=https://gitee.com/passerby-b/javascript/raw/master/icon/didi.png, enabled=true",
-	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/ddgyleaf.conf, tag=滴滴果园leaf, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "13 */5 8-22 * * * http://script.frp.aiuyo.com:8680/xgsp20220325act/xgsp.js, tag=西瓜视频, img-url=https://gitee.com/passerby-b/javascript/raw/master/icon/didi.png, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/xgsp.conf?token=GHSAT0AAAAAABKFKNI76WYRHRCI2FA7WWEGYSOROZA, tag=西瓜视频, update-interval=-1, opt-parser=false, enabled=true"
         },    
 	{
             "config": "10 */6 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/fdxs.js, tag=疯读小说, enabled=true",
