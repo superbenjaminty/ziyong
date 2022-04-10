@@ -11,11 +11,11 @@
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/gqsl.conf, tag=广汽三菱, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{    
-            "config": "10 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/ks.js, tag=快手David, enabled=true",
+            "config": "10 8-22 * * * https://raw.githubusercontent.com/superbenjaminty/scripts-1/main/ks.js, tag=快手David, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/ksDavid.conf, tag=快手David, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{    
-            "config": "10 2 8-22/2 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/jktt.js, tag=健康头条, enabled=true",
+            "config": "10 2 8-22/2 * * * https://raw.githubusercontent.com/superbenjaminty/scripts-1/main/jktt.js, tag=健康头条, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/jktt.conf, tag=健康头条, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{    
@@ -59,7 +59,7 @@
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/fdxs.conf, tag=疯读小说刷时长, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{    
-            "config": "10 8-22 * * * https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/fqctapp.js, tag=番茄畅听, enabled=true",
+            "config": "10 8-22 * * * https://raw.githubusercontent.com/superbenjaminty/scripts-1/fqctapp.js, tag=番茄畅听, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/fqct.conf, tag=番茄畅听, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
@@ -115,15 +115,15 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/dzl.conf, tag=多走路, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "25 */30 8-22 * * * https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/dyjsb.js, tag=抖音极速版, enabled=true", 
+            "config": "25 */30 8-22 * * * https://raw.githubusercontent.com/superbenjaminty/scripts-1/main/dyjsb.js, tag=抖音极速版, enabled=true", 
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/dyjsb.conf, tag=抖音极速版, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "2 9 * * * https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/ls.js, tag=来闪David, enabled=true", 
+            "config": "2 9 * * * https://raw.githubusercontent.com/superbenjaminty/scripts-1/main/ls.js, tag=来闪David, enabled=true", 
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/ls.conf, tag=来闪David, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "15 8,20 * * * https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/daw.js, tag=都爱玩David, enabled=true", 
+            "config": "15 8,20 * * * https://raw.githubusercontent.com/superbenjaminty/scripts-1/main/daw.js, tag=都爱玩David, enabled=true", 
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/dawDavid.conf, tag=都爱玩David, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
@@ -147,15 +147,15 @@
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/qtt.conf, tag=趣头条, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "39 9-21 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/fqctapp.js, tag=番茄畅听, enabled=true",
+            "config": "39 9-21 * * * https://raw.githubusercontent.com/superbenjaminty/scripts-1/main/fqctapp.js, tag=番茄畅听, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/fqct.conf, tag=番茄畅听, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "15 */6 8-23 * * * https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/everyday.js, tag=书旗每日任务, enabled=false",
+            "config": "15 */6 8-23 * * * https://raw.githubusercontent.com/superbenjaminty/scripts-1/main/everyday.js, tag=书旗每日任务, enabled=false",
 	    "addons": "https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/conf/every_day.conf, tag=阅读挑战和极速视频, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "11 8-23/2 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/sqxs.js, tag=书旗日常任务, enabled=true", 
+            "config": "11 8-23/2 * * * https://raw.githubusercontent.com/superbenjaminty/scripts-1/main/sqxs.js, tag=书旗日常任务, enabled=true", 
             "addons": "https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/conf/shuqi.conf, tag=书旗日常任务, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
@@ -227,7 +227,7 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/txwzq.conf, tag=腾讯微证券, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "13 8-22/2 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/wlkd.js, tag=文旅看点, enabled=false", 
+            "config": "13 8-22/2 * * * https://raw.githubusercontent.com/superbenjaminty/scripts-1/main/wlkd.js, tag=文旅看点, enabled=false", 
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/wlkd.conf, tag=文旅看点, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
@@ -251,7 +251,7 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/ksjsb.conf, tag=快手极速版, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "20 18 6,7,12,13,20,21 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/zqkd.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
+            "config": "20 18 6,7,12,13,20,21 * * * https://raw.githubusercontent.com/superbenjaminty/scripts-1/main/zqkd.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zqkd.conf, tag=中青看点极速版, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
