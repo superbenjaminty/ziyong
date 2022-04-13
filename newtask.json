@@ -152,11 +152,11 @@
         },
         {
             "config": "15 */6 8-23 * * * https://raw.githubusercontent.com/superbenjaminty/scripts-1/main/everyday.js, tag=书旗每日任务, enabled=false",
-	    "addons": "https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/conf/every_day.conf, tag=阅读挑战和极速视频, update-interval=-1, opt-parser=false, enabled=true"
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/sqeveryday.conf, tag=阅读挑战和极速视频, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
             "config": "11 8-23/2 * * * https://raw.githubusercontent.com/superbenjaminty/scripts-1/main/sqxs.js, tag=书旗日常任务, enabled=true", 
-            "addons": "https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/conf/shuqi.conf, tag=书旗日常任务, update-interval=-1, opt-parser=false, enabled=true"
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/sqxs.conf, tag=书旗日常任务, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
             "config": "23 8 * * * https://raw.githubusercontent.com/YaphetS0903/JStest/main/flg.js, tag=返利购, enabled=true", 
