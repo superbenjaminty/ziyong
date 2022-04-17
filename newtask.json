@@ -3,7 +3,7 @@
     "description": "网络搜集",
     "task": [
 	{
-            "config": "10 8,9 * * * http://script.frp.aiuyo.com:8680/jy20220331cdvde/jy.js, tag=剪映, enabled=true",
+            "config": "10 8,9 * * * jy.js, tag=剪映, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/jy.conf, tag=剪映, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{    
@@ -31,8 +31,8 @@
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/ksleaf.conf, tag=快手leaf, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{    
-            "config": "10 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/ks.js, tag=快手David, enabled=true",
-	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/ksDavid.conf, tag=快手David, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "10 8-22 * * * qd.js, tag=签到合集, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/qd.conf, tag=签到合集, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{    
             "config": "*/30 5-23 * * * http://script.frp.aiuyo.com:8680/dyjsb20220326zhuyn/dyhsb.js, tag=抖音火山版, enabled=true",
