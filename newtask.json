@@ -19,8 +19,8 @@
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/jktt.conf, tag=健康头条, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{    
-            "config": "10 22 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/ddgy.js, tag=滴滴果园leaf, img-url=https://gitee.com/passerby-b/javascript/raw/master/icon/didi.png, enabled=true",
-	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/ddgyleaf.conf, tag=滴滴果园leaf, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "10 22 * * * http://script.frp.aiuyo.com:8680/scripts/slyd.js, tag=书路阅读, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/slyd.conf, tag=书路阅读, update-interval=-1, opt-parser=false, enabled=true"
         },    
 	{
             "config": "10 */6 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/fdxs.js, tag=疯读小说, enabled=true",
