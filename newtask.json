@@ -328,7 +328,7 @@
         },
 	{
             "config": "6 6 9 * * * xyfs.js, tag=咸鱼翻身, enabled=true", 
-            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/znxq.conf, tag=咸鱼翻身, update-interval=-1, opt-parser=false, enabled=true"
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/xyfs.conf, tag=咸鱼翻身, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
             "config": "*/30 8-23 * * * https://raw.githubusercontent.com/laoguilin/JS-/main/chyu/chyu.js, tag=成语极速版, enabled=true",
