@@ -168,7 +168,7 @@
         },
         {
             "config": "*/10 8-21 * * * http://script.frp.aiuyo.com:8680/jrtt.js, tag=今日头条极速版, img-url=https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/jrtt.png, enabled=true", 
-            "addons": "http://script.frp.aiuyo.com:8680/conf/jrtt.conf, tag=今日头条, update-interval=-1, opt-parser=false, enabled=true"
+            "addons": "http://script.frp.aiuyo.com:8680/scripts/conf/jrtt.conf, tag=今日头条, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
             "config": "12 9 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js, tag=新自选股, img-url=https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png, enabled=true", 
