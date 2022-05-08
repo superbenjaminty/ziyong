@@ -331,8 +331,8 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/xyfs.conf, tag=咸鱼翻身, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "*/30 8-23 * * * https://raw.githubusercontent.com/laoguilin/JS-/main/chyu/chyu.js, tag=成语极速版, enabled=true",
-            "addons": "https://raw.githubusercontent.com/Sunert/Script/master/TaskConf/baidu/qx_rewite.txt, tag=百度极速, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "*/30 8-23 * * * https://raw.githubusercontent.com/xl2101200/-/main/gqsl.js, tag=广汽三菱TOM, enabled=true",
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/gqslTOM.conf, tag=广汽三菱TOM, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
             "config": "30 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/dtwzgame.js, tag=走财运, enabled=true",
