@@ -343,8 +343,8 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/txzxgLEAFXCY.conf, tag=腾讯自选股leaf版, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "0-59/15 8-23 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/ydd.js, tag=阅多多, enabled=true",
-            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/ydd.conf, tag=阅多多, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "58 9,20 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/elm.js, tag=饿了么, enabled=true",
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/elm.conf, tag=饿了么, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
             "config": "36 8-22/2 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/zssq.js, tag=追书神器leaf, enabled=true",
