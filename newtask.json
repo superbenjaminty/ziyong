@@ -359,7 +359,7 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/yqlyf.conf, tag=一起来养蜂, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "11 8 5-20 * * * http://script.frp.aiuyo.com:8680/scripts/tttl.js, tag=九章头条David, img-url=https://raw.githubusercontent.com/sngxmini/QuanX/master/icons/tom.png, enabled=true", 
+            "config": "11 8 5-20 * * * http://script.frp.aiuyo.com:8680/scripts/tttl.js, tag=九章头条David, img-url=https://raw.githubusercontent.com/Se7eNcBoT/QuantumultX/master/David/Icon/jztt.png, enabled=true", 
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/jzttdavid.conf, tag=九章头条David, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
