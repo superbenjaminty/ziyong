@@ -375,8 +375,8 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zssqleaf.conf, tag=追书神器leaf, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "30 6,8,10,12 * * * https://raw.githubusercontent.com/passerby-b/mt_fruit/main/mt_fruit.js, tag=美团果园, enabled=true", 
-            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/mtgy.conf, tag=美团果园, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "30 6,8,10,12 * * * https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/ziyong/zhongan/zan.js, tag=众安健康, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zan.conf, tag=众安健康, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
             "config": "15 5 8-20 * * * 1024.js, tag=1024, enabled=true",
