@@ -192,7 +192,7 @@
         },
         {
             "config": "20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_mission.js, tag=什么值得买每日任务, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm.png, enabled=true", 
-            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/smzdm.conf, tag=什么值得买获取CK, update-interval=-1, opt-parser=false, enabled=true"
+            "addons": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_mission.qxrewrite, tag=什么值得买获取CK, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
             "config": "5 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.js, tag=什么值得买每日签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm.png, enabled=true", 
