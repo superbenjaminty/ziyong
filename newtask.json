@@ -219,7 +219,7 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/qkhq.conf, tag=趣看行情, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "10 8-23 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/58tc.js, tag=58同城, enabled=false", 
+            "config": "10 7-14 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/58tc.js, tag=58同城, enabled=false", 
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/58tc.conf, tag=58同城58同城, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
