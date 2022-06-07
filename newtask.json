@@ -107,7 +107,7 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/sjb.conf, tag=睡觉宝, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "2 8-22 * * * https://raw.githubusercontent.com/leafxcy/JavaScript/main/blackUnique.js, tag=全球购骑士特权, enabled=true", 
+            "config": "2 8-22 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/blackUnique.js, tag=全球购骑士特权, enabled=true", 
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/qqgqstq.conf, tag=全球购骑士特权, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
