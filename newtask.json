@@ -367,8 +367,8 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/txzxgLEAFXCY.conf, tag=腾讯自选股leaf版, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
-            "config": "58 9,20 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/elm.js, tag=饿了么, enabled=true",
-            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/elm.conf, tag=饿了么, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "28 0,8,12,18 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/ddgy.js, tag=滴滴果园leaf, img-url=https://gitee.com/passerby-b/javascript/raw/master/icon/didi.png, enabled=true",
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/ddgyleaf.conf, tag=滴滴果园leaf, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
             "config": "33 8,12,16,18,20 * * * https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/ziyong/wangyi/wyyx.js, tag=网易严选, enabled=true",
