@@ -47,7 +47,7 @@
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/fdxs.conf, tag=疯读小说, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{    
-            "config": "11 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/zssq.js, tag=追书神器, enabled=true",
+            "config": "11 8-22 * * * http://script.frp.aiuyo.com:8680/scripts/zssq.js, tag=追书神器, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zssq.conf, tag=追书神器, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{    
