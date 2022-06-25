@@ -3,6 +3,10 @@
     "description": "网络搜集",
     "task": [
 	{
+            "config": "22 0,6-22/2 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/hhyd.js, tag=花花阅读, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/hhyd.conf, tag=花花阅读, update-interval=-1, opt-parser=false, enabled=true"
+        },
+	{
             "config": "10 8,9 * * * jy.js, tag=剪映, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/jy.conf, tag=剪映, update-interval=-1, opt-parser=false, enabled=true"
         },
