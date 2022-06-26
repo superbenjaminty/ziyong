@@ -7,6 +7,10 @@
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/hhyd.conf, tag=花花阅读, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
+            "config": "15 */15 * * * * hhydTOM.js, tag=hhydTOM, img-url=https://github.com/xl2101200/-/blob/main/tom.png, enabled=false",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/hhyd.conf, tag=花花阅读, update-interval=-1, opt-parser=false, enabled=true"
+        },
+	{
             "config": "10 8,9 * * * jy.js, tag=剪映, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/jy.conf, tag=剪映, update-interval=-1, opt-parser=false, enabled=true"
         },
