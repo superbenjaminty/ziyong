@@ -3,8 +3,8 @@
     "description": "网络搜集",
     "task": [
 	{
-            "config": "22 0,6-22/2 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/hhyd.js, tag=花花阅读, enabled=true",
-	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/hhyd.conf, tag=花花阅读, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "22 6-22/4 * * * https://kireinasakura.coding.net/p/could/d/there/git/raw/master/zl.js, tag=走路小程序, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zlxcx.conf, tag=走路小程序, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
             "config": "15 */15 * * * * hhydTOM.js, tag=花花阅读TOM, img-url=https://github.com/xl2101200/-/blob/main/tom.png, enabled=false",
