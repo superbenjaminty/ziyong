@@ -3,6 +3,10 @@
     "description": "网络搜集",
     "task": [
 	{
+            "config": "22 6-22/4 * * * https://kireinasakura.coding.net/p/could/d/there/git/raw/master/liuliu.js, tag=溜溜他, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/llt.conf, tag=溜溜他, update-interval=-1, opt-parser=false, enabled=true"
+        },
+	{
             "config": "22 6-22/4 * * * https://kireinasakura.coding.net/p/could/d/there/git/raw/master/zl.js, tag=走路小程序, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zlxcx.conf, tag=走路小程序, update-interval=-1, opt-parser=false, enabled=true"
         },
