@@ -4,7 +4,7 @@
     "task": [
 	{
             "config": "26 */30 6-22 * * * http://script.frp.aiuyo.com:8680/scripts/rlsp.js, tag=燃旅视频, enabled=true",
-	    "addons": "https://github.com/superbenjaminty/ziyong/blob/master/rewrite/rlspDavid.conf, tag=燃旅视频, update-interval=-1, opt-parser=false, enabled=true"
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/rlspDavid.conf, tag=燃旅视频, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
             "config": "22 6-22/4 * * * https://kireinasakura.coding.net/p/could/d/there/git/raw/master/liuliu.js, tag=溜溜他, enabled=true",
