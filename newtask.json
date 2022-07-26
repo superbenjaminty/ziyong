@@ -3,6 +3,26 @@
     "description": "网络搜集",
     "task": [
 	{
+            "config": "26 7 6-22 * * * http://script.frp.aiuyo.com:8680/scripts/cjy.js, tag=超节约, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/cjy.conf, tag=超节约, update-interval=-1, opt-parser=false, enabled=true"
+        },
+	{
+            "config": "22 6-22/4 * * * https://kireinasakura.coding.net/p/could/d/there/git/raw/master/liuliu.js, tag=溜溜他, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/llt.conf, tag=溜溜他, update-interval=-1, opt-parser=false, enabled=true"
+        },
+	{
+            "config": "22 6-22/4 * * * https://kireinasakura.coding.net/p/could/d/there/git/raw/master/zl.js, tag=走路小程序, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zlxcx.conf, tag=走路小程序, update-interval=-1, opt-parser=false, enabled=true"
+        },
+	{
+            "config": "15 */15 * * * * hhydTOM.js, tag=花花阅读TOM, img-url=https://github.com/xl2101200/-/blob/main/tom.png, enabled=false",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/hhydTOM.conf, tag=花花阅读TOM, update-interval=-1, opt-parser=false, enabled=true"
+        },
+	{
+            "config": "10 8,9 * * * jy.js, tag=剪映, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/jy.conf, tag=剪映, update-interval=-1, opt-parser=false, enabled=true"
+        },
+	{
             "config": "26 */30 6-22 * * * http://script.frp.aiuyo.com:8680/scripts/rlsp.js, tag=燃旅视频, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/rlspDavid.conf, tag=燃旅视频, update-interval=-1, opt-parser=false, enabled=true"
         },
