@@ -7,12 +7,12 @@
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/cjy.conf, tag=超节约, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "22 6-22/4 * * * https://kireinasakura.coding.net/p/could/d/there/git/raw/master/liuliu.js, tag=溜溜他, enabled=true",
-	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/llt.conf, tag=溜溜他, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "22 36 7,20 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/bjxd.js, tag=北京现代, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/bjxd.conf, tag=北京现代, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "22 6-22/4 * * * https://kireinasakura.coding.net/p/could/d/there/git/raw/master/zl.js, tag=走路小程序, enabled=true",
-	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zlxcx.conf, tag=走路小程序, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "33 45 7,20 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/bjqc.js, tag=北京汽车, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/bjqc.conf, tag=北京汽车, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
             "config": "15 */15 * * * * hhydTOM.js, tag=花花阅读TOM, img-url=https://github.com/xl2101200/-/blob/main/tom.png, enabled=false",
