@@ -19,8 +19,8 @@
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/ty.conf, tag=桃源, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "10 8,9 * * * jy.js, tag=剪映, enabled=true",
-	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/jy.conf, tag=剪映, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "10 8-11,14-19,22 * * * https://kireinasakura.coding.net/p/could/d/there/git/raw/master/tyr.js, tag=桃源人, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/tyr.conf, tag=桃源人, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
             "config": "26 */30 6-22 * * * http://script.frp.aiuyo.com:8680/scripts/rlsp.js, tag=燃旅视频, enabled=true",
