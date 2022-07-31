@@ -3,6 +3,26 @@
     "description": "网络搜集",
     "task": [
 	{
+            "config": "26 7 6-22 * * * https://kireinasakura.coding.net/p/could/d/there/git/raw/master/yoyo.js, tag=悠悠, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/yoyo.conf, tag=悠悠, update-interval=-1, opt-parser=false, enabled=true"
+        },
+	{
+            "config": "22 36 7,20 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/bjxd.js, tag=北京现代, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/bjxd.conf, tag=北京现代, update-interval=-1, opt-parser=false, enabled=true"
+        },
+	{
+            "config": "33 45 7,20 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/bjqc.js, tag=北京汽车, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/bjqc.conf, tag=北京汽车, update-interval=-1, opt-parser=false, enabled=true"
+        },
+	{
+            "config": "15 6-12 * * * * https://kireinasakura.coding.net/p/could/d/there/git/raw/master/ty.js, tag=桃源, img-url=https://github.com/xl2101200/-/blob/main/tom.png, enabled=false",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/ty.conf, tag=桃源, update-interval=-1, opt-parser=false, enabled=true"
+        },
+	{
+            "config": "10 8-11,14-19,22 * * * https://kireinasakura.coding.net/p/could/d/there/git/raw/master/tyr.js, tag=桃源人, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/tyr.conf, tag=桃源人, update-interval=-1, opt-parser=false, enabled=true"
+        },
+	{
             "config": "26 7 6-22 * * * http://script.frp.aiuyo.com:8680/scripts/cjy.js, tag=超节约, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/cjy.conf, tag=超节约, update-interval=-1, opt-parser=false, enabled=true"
         },
