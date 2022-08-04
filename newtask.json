@@ -7,12 +7,12 @@
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/yoyo.conf, tag=悠悠, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "22 36 7,20 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/bjxd.js, tag=北京现代, enabled=true",
-	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/bjxd.conf, tag=北京现代, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "22 36 7,20 * * * http://43.138.166.17:8080/save/kxkz.js, tag=开心客栈, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/kxkz.conf, tag=开心客栈, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "33 45 7,20 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/bjqc.js, tag=北京汽车, enabled=true",
-	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/bjqc.conf, tag=北京汽车, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "33 45 7,20 * * * http://43.138.166.17:8080/save/zzsj.js, tag=猪猪世界, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zzsj.conf, tag=猪猪世界, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
             "config": "15 6-12 * * * * https://kireinasakura.coding.net/p/could/d/there/git/raw/master/ty.js, tag=桃源, img-url=https://github.com/xl2101200/-/blob/main/tom.png, enabled=false",
