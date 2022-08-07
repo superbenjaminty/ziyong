@@ -15,8 +15,8 @@
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zzsj.conf, tag=猪猪世界, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "15 6-12 * * * * http://43.138.166.17:8080/save/shyys.js, tag=桃源, enabled=false",
-	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/shyys.conf, tag=桃源, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "15 6-12 * * * * http://43.138.166.17:8080/save/shyys.js, tag=山海有异兽, enabled=false",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/shyys.conf, tag=山海有异兽, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
             "config": "10 8-11,14-19,22 * * * https://kireinasakura.coding.net/p/could/d/there/git/raw/master/tyr.js, tag=桃源人, enabled=true",
