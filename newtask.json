@@ -455,8 +455,8 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/wyyx.conf, tag=网易严选, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "30 6,8,10,12 * * * https://raw.githubusercontent.com/danchaofan12138/danchaofan/main/ziyong/zhongan/zan.js, tag=众安健康, enabled=true", 
-            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zan.conf, tag=众安健康, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "10,40 8-18,23 * * * https://raw.githubusercontent.com/LinYuanovo/scripts/main/dyjsb.js, tag=抖音极速版临渊, enabled=true", 
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/dyjsbly.conf, tag=抖音极速版临渊, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
             "config": "38 7-18 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/ksjsb_v2.js, tag=快手极速版v2, enabled=true",
