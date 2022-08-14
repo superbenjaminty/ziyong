@@ -1,4 +1,4 @@
 appsupport/yoda/biz/info url script-request-header https://raw.githubusercontent.com/leafTheFish/DeathNote/main/ksjsb_v2.js
 ksapp/client/package/renew url script-request-header https://raw.githubusercontent.com/leafTheFish/DeathNote/main/ksjsb_v2.js
-[MITM]
+
 hostname = api.kuaisho*.com
