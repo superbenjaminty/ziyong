@@ -199,7 +199,7 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/ls.conf, tag=来闪, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "*/30 8-21 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/qtt.js, tag=趣头条, enabled=true",
+            "config": "*/30 8-21 * * * http://script.frp.aiuyo.com:8680/scripts/qtt.js, tag=趣头条, enabled=true",
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/qtt.conf, tag=趣头条, update-interval=-1, opt-parser=false, enabled=true"
         },
         {
