@@ -1,0 +1,3 @@
+https://wzq.tenpay.com/cgi-bin/.*user.*.fcgi url script-request-header https://raw.githubusercontent.com/leafTheFish/DeathNote/main//txstockV2.js
+
+hostname = wzq.tenpay.com
