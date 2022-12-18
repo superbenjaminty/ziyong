@@ -435,8 +435,8 @@
             "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zan.conf, tag=众安健康, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "15 5 8-20 * * * 1024.js, tag=1024, enabled=true",
-            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/1024.conf, tag=1024, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "15 5 8-20/2 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/jryc.js, tag=今日越城, enabled=true",
+            "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/jryc.conf, tag=今日越城, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
             "config": "24 19 0,7-21/2 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/meituan.js, tag=美团, enabled=true", 
