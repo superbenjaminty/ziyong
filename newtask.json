@@ -31,8 +31,8 @@
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/bjxd.conf, tag=北京现代, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "33 45 7,20 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/bjqc.js, tag=北京汽车, enabled=true",
-	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/bjqc.conf, tag=北京汽车, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "33 45 7,20 * * * http://script.frp.zhoudedi.top:60080/scripts/douban.js, tag=豆瓣, enabled=true",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/db.conf, tag=豆瓣, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
             "config": "15 6-12 * * * * https://kireinasakura.coding.net/p/could/d/there/git/raw/master/ty.js, tag=桃源, img-url=https://github.com/xl2101200/-/blob/main/tom.png, enabled=false",
