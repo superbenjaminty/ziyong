@@ -55,8 +55,8 @@
 	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/zlxcx.conf, tag=走路小程序, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
-            "config": "15 */15 * * * * hhydTOM.js, tag=花花阅读TOM, img-url=https://github.com/xl2101200/-/blob/main/tom.png, enabled=false",
-	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/hhydTOM.conf, tag=花花阅读TOM, update-interval=-1, opt-parser=false, enabled=true"
+            "config": "15 */15 * * * * http://script.frp.zhoudedi.top:60080/scripts/htt.js, tag=惠头条David, img-url=https://github.com/xl2101200/-/blob/main/tom.png, enabled=false",
+	    "addons": "https://raw.githubusercontent.com/superbenjaminty/ziyong/master/rewrite/httdavid.conf, tag=惠头条David, update-interval=-1, opt-parser=false, enabled=true"
         },
 	{
             "config": "10 8,9 * * * jy.js, tag=剪映, enabled=true",
